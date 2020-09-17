@@ -8,6 +8,6 @@ In order to assist with optimization, the style.css file was reformatted and con
 
 A descriptive title was added within the <Title> tags.
 
-Link to site:
+Link to site: https://hartbt.github.io/homework-1/
 
 Screenshot of site: <img src="./assets/images/screenshot.png">
