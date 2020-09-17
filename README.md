@@ -1,4 +1,6 @@
-The assignment given came with a goal of redoing code that follow accessibility standards in order to optimize the site for search engines.
+09/17/2020 Brendon Hart
+
+The assignment given came with a goal of redoing code that follow accessibility standards in order to optimize the site for search engines. Changing things such as tags and consolidating classes in the style.css will meet this goal.
 
 This was completed by changing existing 'div' tags to tags with semantic meaning, such as 'header' or 'section'. Other tags added within the code are: 'nav', 'aside', and 'footer'.
 
@@ -8,6 +10,8 @@ In order to assist with optimization, the style.css file was reformatted and con
 
 A descriptive title was added within the 'title' tags.
 
-Link to site: https://hartbt.github.io/homework-1/
+Comments were added to all changes noted within both HTML and CSS files.
 
-Screenshot of site: <img src="./assets/images/fullpagess.png">
+<strong>Link to site:</strong> https://hartbt.github.io/homework-1/
+
+<strong>Screenshot of site:</strong> <img src="./assets/images/fullpagess.png">
