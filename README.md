@@ -10,4 +10,4 @@ A descriptive title was added within the <Title> tags.
 
 Link to site:
 
-Screenshot of site: <img src="Homework/Homework 1/Develop/assets/images/Screen Shot 2020-09-17 at 3.48.20 PM.png>
+Screenshot of site: <img src="./assets/images/screenshot.png">
