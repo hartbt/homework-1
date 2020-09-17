@@ -10,4 +10,4 @@ A descriptive title was added within the 'title' tags.
 
 Link to site: https://hartbt.github.io/homework-1/
 
-Screenshot of site: <img src="./assets/images/screenshot.png">
+Screenshot of site: <img src="./assets/images/fullpagess.png">
